@@ -1,7 +1,7 @@
 /*
  * $Id: PropertyUtil.java 625 2013-06-15 03:37:41Z fanyong.kfy $
  *
- * Copyright (c) 2013 zhichubao.com. All Rights Reserved.
+ * Copyright (c) 2013 github.com. All Rights Reserved.
  */
 
 package com.github.acticfox.common.tools.util;
